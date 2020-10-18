@@ -1,4 +1,7 @@
 ## assert
+
+**Converted to module use "github.com/blbgo/testing/assert"**
+
 A testing assert tool for go.
 
 [![GoDoc](http://img.shields.io/badge/go-documentation-blue.svg)](http://godoc.org/github.com/blbergwall/assert)
